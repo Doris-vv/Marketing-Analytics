@@ -237,6 +237,6 @@ customer_reviews_df.to_csv('fact_customer_reviews_with_sentiment.csv', index=Fal
 ```
 
 ## Visualization
-![Image](https://github.com/user-attachments/assets/a75e3ad3-ab22-436b-82c1-303b58bde3a0)
+![Image](https://github.com/user-attachments/assets/f0497ce5-4d2a-4b47-86e5-3227cdc3980f)
 
 ## Analysis
