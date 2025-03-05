@@ -239,4 +239,9 @@ customer_reviews_df.to_csv('fact_customer_reviews_with_sentiment.csv', index=Fal
 ## Visualization
 ![Image](https://github.com/user-attachments/assets/f0497ce5-4d2a-4b47-86e5-3227cdc3980f)
 
-## Analysis
+## Actions
+#### Increase Conversion Rates:
+Target High-Performing Product Categories: Focus marketing efforts on products with demonstrated high conversion rates, such as Kayaks, Ski Boots, and Baseball Gloves. Implement seasonal promotions or personalized campaigns during peak months (e.g., January and September) to capitalize on these trends.
+#### Enhance Customer Engagement:
+Revitalize Content Strategy: To turn around declining views and low interaction rates, experiment with more engaging content formats, such as interactive videos or user-generated content. Additionally, boost engagement by optimizing call-to-action placement in social media and blog content, particularly during historically lower-engagement months (September-December).
+
