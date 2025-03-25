@@ -8,7 +8,7 @@ ShopEasy, an online retail business, is facing reduced customer engagement and c
 |Tool        |Purpose                                                                        |
 |------------|-------------------------------------------------------------------------------|
 |SQL Server  |Cleaning the data                                       |
-|Python|
+|Python|Doing the sentiment analysis|
 |Mokkup AI   |Designing the wireframe/mockup of the dashboard                                |
 |Power BI    |Visualizing the data via interactive dashboards                                |
 |PowerPoint       |Calculate, explore the data, generate the findings and write the recommendation|
