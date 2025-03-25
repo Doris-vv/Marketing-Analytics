@@ -1,6 +1,3 @@
-select * from customers
-select * from geography
-
 SELECT 
     c.CustomerID,  -- Selects the unique identifier for each customer
     c.CustomerName,  -- Selects the name of each customer
@@ -19,8 +16,6 @@ LEFT JOIN
 ON 
     c.GeographyID = g.GeographyID;  -
 
-select * from products
-
 SELECT 
     ProductID,  -- Selects the unique identifier for each product
     ProductName,  -- Selects the name of each product
@@ -36,9 +31,6 @@ SELECT
 FROM 
     dbo.products
 
-select * from customer_reviews
--- Query to clean whitespace issues in the ReviewText column
-
 SELECT 
     ReviewID,  -- Selects the unique identifier for each review
     CustomerID,  -- Selects the unique identifier for each customer
@@ -49,8 +41,6 @@ SELECT
     REPLACE(ReviewText, '  ', ' ') AS ReviewText
 FROM 
     dbo.customer_reviews
-
-select * from engagement_data
 
 SELECT 
     EngagementID,  -- Selects the unique identifier for each engagement record
