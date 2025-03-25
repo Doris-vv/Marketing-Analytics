@@ -247,3 +247,4 @@ Revitalize Content Strategy: To turn around declining views and low interaction 
 
 ## Presentation
 Presenting this project on PowerPoint.
+![Image](https://github.com/user-attachments/assets/fa4898f1-3198-44fa-93d4-6366bceb2697)
